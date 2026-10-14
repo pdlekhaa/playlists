@@ -1,5 +1,5 @@
 # Jukebot 🕺
-This project builds a custom playlist generator website for our EECS 449 Final Project. The program asks the user for a prompt, utilizes Ollama AI to generate a playlist, stores the user's data in SQLite, and returns a playlist list and Spotify link to add playlist to spotify. The website allows for logins and remembers previous information using SQLite for future playlist recommendations.
+This project builds a custom playlist generator website for our EECS 449 (Conversational AI) Final Project. The program asks the user for a prompt, utilizes Ollama AI to generate a playlist, stores the user's data in SQLite, and returns a playlist list and Spotify link to add playlist to spotify. The website allows for logins and remembers previous information using SQLite for future playlist recommendations.
 
 
 **Instructions on how to build/run JukeBot**    
